@@ -13,7 +13,7 @@ Current problems with minting:
 * Making people grind in Discord for a whitelist spot is rubbish
 * Favours those with large amounts of crypto
 * Can sell out in seconds
-* Successful projects can come out of nowhere, with secondary market sales 'pricing out' a lot of people without 💵💵💵
+* Successful projects can come out of nowhere, with secondary market sales 'pricing out' a lot of people without 💵
 
 Including real-world requirements in the minting process is an innovative way to address a few of those main issues mentioned above.
 Minting isn't a race anymore, and isn't going to solely favour those with huge amounts of ETH.
